@@ -1,0 +1,7 @@
+Fri, 31 Jan 2014 11:12:59 -0800
+doc/README_FOR_APP	Fri, 31 Jan 2014 10:22:12 -0800
+app/controllers/application_controller.rb	Fri, 31 Jan 2014 10:22:12 -0800
+app/controllers/movies_controller.rb	Fri, 31 Jan 2014 10:22:12 -0800
+app/helpers/application_helper.rb	Fri, 31 Jan 2014 10:22:12 -0800
+app/helpers/movies_helper.rb	Fri, 31 Jan 2014 10:22:12 -0800
+app/models/movie.rb	Fri, 31 Jan 2014 10:22:12 -0800

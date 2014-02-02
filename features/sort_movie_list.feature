@@ -39,6 +39,10 @@ Scenario: sort movies alphabetically
   And I should see "The Incredibles" before "The Terminator"
   And I should see "The Terminator" before "When Harry Met Sally"
   # your steps here
+  #Step check all ratings
+  #Step sort movie by movie title
+  #Step submit the search form on the home page
+  #Step ensure the movies visible by order
 
 Scenario: sort movies in increasing order of release date
   When I check the following ratings: PG, R, G, PG-13
@@ -55,3 +59,7 @@ Scenario: sort movies in increasing order of release date
   And I should see "Amelie" before "The Incredibles"
   And I should see "The Incredibles" before "The Help"
   # your steps here
+  #Step check all ratings
+  #Step sort movie by release date
+  #Step submit the search form on the home page
+  #Step ensure the movies visible by order

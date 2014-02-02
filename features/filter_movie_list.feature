@@ -50,3 +50,6 @@ Scenario: all ratings selected
   When I check the following ratings: PG, R, G, PG-13
   Then I press "ratings_submit"
   Then I should see all of the movies
+  #Step check all ratings
+  #Step to submit the search form
+  #Step ensure that all movies are visible
